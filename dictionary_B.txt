@@ -1,0 +1,94 @@
+be,быть,sein,byt,estar,ser,etre
+be about,собираться,vergehen,byt o tom,ser sobre,ser acerca,porter sur
+be along,приезжать,mitmachen,byt spolu,estar junto,estar junto,etre le long
+be away,уходить,weg sein,byt pryc,estar longe,estar fuera,etre loin
+be back,возвращаться,zuruck sein,zpatky,voltar,estar de vuelta,reviens
+be in,быть дома,vorliegen,byt v,estar em,estar en,etre dans
+be on,идти,auf sein,byt na,estar em,estar en,etre sur
+beach,пляж,strand,plaz,de praia,playa,plage
+bear,медведь,bar,medved,ursa,osa,ourse
+beauty,красота,schonheit,krasa,beleza,belleza,beaute
+became,становиться,wurden,stal se,tornou-se,convirtio,devenue
+because,потому что,da,protoze,porque,porque,parce que
+become,становиться,wurden,stat se,tornar-se,volverse,devenir
+bed,спать,bett,luzko,cama,cama,lit
+beef,говядина,rindfleisch,hovezi,carne,carne de vaca,du boeuf
+before,перед,vor,drive,antes,antes de,avant
+begun,начатый,beginnen,zacalo,iniciada,empezada,commence
+behaviour,поведение,verhalten,chovani,comportamento,comportamiento,comportement
+behind,позади,hinter,za,atras,detras,derriere
+behold,смотреть,erblicke,spatrit,contemplar,mirad,voir
+being,быть,sein,bytost,ser,siendo,etant
+believe,верить,glauben,verit,acreditam,creer,croyez
+belong,принадлежать,gehoren,patrit,pertencer,pertenecer a,appartenir
+below,ниже,unten,nize,abaixo,abajo,au dessous de
+benzin,бензин,benzin,benzin,benzina,benzin,benzine
+berry,ягода,beere,bobule,baga,baya,baie
+best,лучший,beste,nejlepsi,melhor,mejor,meilleure
+better,лучший,besser,lepsi,melhor,mejor,mieux
+between,между,zwischen,mezi,entre,entre,entre
+beverage,напиток,getrank,napoj,bebida,bebida,boisson
+beware,беречься,sich huten,pozor,cuidado,tener cuidado,il faut se mefier
+beyond,вне,außen,mimo,alem,mas alla,au-dela
+big,большой,groß,velky,grande,grande,grosse
+bill,счет,rechnung,uctovat,conta,cuenta,facture
+billing,выручка,abrechnung,fakturace,faturamento,facturacion,facturation
+billion,миллиард,milliarde,miliarda,bilhao,mil millones,milliard
+binary,двоичный,binar,binarni,binaria,binaria,binaire
+bind,связывать,binden,svazat,ligar,enlazar,lier
+biologic,биологический,biologisch,biologicky,biologico,biologica,biologique
+bird,птица,vogel,ptak,passaro,pajaro,oiseau
+birthday,день рождения,geburtstag,narozeniny,aniversario,cumpleanos,anniversaire
+biscuit,печенье,keks,suchar,bolacha,galleta,biscuit
+black,черный,schwarz,cerna,preta,negra,noire
+blackberry,ежевика,brombeere,ostruzina,amora,mora,la mure
+blade,лезвие,klinge,cepel,lamina,espada,lame
+blank,бланк,leer,prazdny,em branco,blanca,vide
+blink,мигать,blinken,blikat,piscar,parpadeo,cligner
+block,блокировать,block,blok,quadra,bloquear,bloquer
+blood,кровь,blut,krev,sangue,sangre,du sang
+blue,синий,blau,modry,azul,azul,bleue
+blur,пятно,verwischen,rozmazat,borrao,difuminar,brouiller
+board,доска,tafel,deska,borda,tablero,planche
+boat,лодка,boot,lod,barco,barco,bateau
+body,тело,korper,telo,corpo,cuerpo,corps
+boil,кипеть,kochen,varit,ferver,hervir,ebullition
+book,книга,buch,kniha,livro,libro,livre
+boot,ботинок,stiefel,bota,bota,bota,demarrage
+both,оба,beide,oba,ambas,ambas,tous les deux
+bottle,бутылка,flasche,lahev,garrafa,botella,bouteille
+bottom,нижний,unterseite,dno,inferior,fondo,bas
+boundary,граница,grenze,hranice,fronteira,perimetro,frontiere
+boutique,бутик,boutique,butik,boutique,boutique,boutique
+box,коробка,box,krabice,caixa,caja,boite
+brake,тормоз,bremse,brak,freio,freno,frein
+branch,филиал,ast,vetev,ramo,rama,branche
+brandy,бренди,brandy,brandy,conhaque,brandy,cognac
+bread,хлеб,brot,chleb,pao,pan de molde,pain
+break,перерыв,brechen,prestavka,pausa,rotura,pause
+breakpoint,контрольная точка,haltepunkt,bod zlomu,ponto de interrupcao,punto de ruptura,point d'arret
+brick,кирпич,backstein,cihlovy,tijolo,ladrillo,brique
+bridge,мост,brucke,most,ponte,puente,pont
+brief,краткий,kurz,strucny,breve,breve,breve
+bright,яркий,hell,jasny,brilhante,brillante,brillante
+bring,приносить,bringen,prinest,trazer,traer,apporter
+broadway,шоссе,broadway,broadway,broadway,broadway,broadway
+brother,брат,bruder,bratr,irmao,hermano,frere
+brown,коричневый,braun,hnedy,castanha,marron,marron
+browse,просматривать,durchsuche,prochazet,squeaky toy,vistazo,feuilleter
+brush,кисть,burste,kartac,escova,cepillo,brosse
+build,строить,bauen,stavet,construir,construir,construire
+business,бизнес,geschaft,podnikani,o negocio,negocio,entreprise
+buy,купить,kaufen,koupit,comprar,comprar,acheter
+by,около,durch,podle,por,por,par
+byte,байт,byte,byte,byte,byte,octet
+baby,малыш,baby,dite,bebe,bebe,bebe
+back,назад,zuruck,zadni,de volta,espalda,retour
+bacon,бекон,speck,slanina,bacon,tocino,bacon
+band,полоса,band,kapela,banda,banda,bande
+bank,банк,bank,banka,banco,banco,banque
+basic,основной,basic,zakladni,basica,basica,de base
+basket,корзина,korb,kosik,cesta,cesta,panier
+bath,ванна,bad,lazen,banho,banera,une baignoire
+English,Russian,Deutsche,Czech,Portugal,Spanish,France
+http://www.oflameron.com
