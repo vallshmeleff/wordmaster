@@ -1,0 +1,201 @@
+aberration,отклонение,abweichung,aberace,aberracao,aberracion,aberration
+abidance,соблюдение,aufenthalt,setrvavani,orientacao,acatamiento,respect
+ability,способность,fahigkeit,schopnost,habilidade,capacidad,aptitude
+able,умеющий,imstande,schopny,capaz,poder,capable
+abnormality,ненормально,anomalie,abnormalita,anormalidade,anormalidad,anomalie
+aboard,на борту,an bord,na palube,a bordo,a bordo,une planche
+abolish,отменять,abolis,zrusit,abolir,abolir,abolir
+abonnement,подписка,abonnement,odcineni,abonnement,abonnement,abonnement
+about,о чем-то,uber,kolem,sobre,acerca de,sure
+above,выше,uber,vyse,acima,encima,au dessus de
+abrasive,абразивный,schleifmittel,drsny,abrasiva,abrasiva,abrasive
+abroach,в движении,abroach,usklibnout se,cercar,abroach,abroach
+abroad,за границей,im ausland,do zahranici,no exterior,en el extranjero,a l'etranger
+abrogate,отменять,aufheben,zrusit,revogar,abrogar,abroger
+absolutely,абсолютно,absolut,absolutne,absolutamente,absolutamente,absolument
+absorb,впитывать,absorbieren,absorbovat,absorver,absorber,absorber
+absorbed,захваченный,absorbiert,vstrebano,absorvida,absorbido,absorbee
+abstinent,умеренный,abstinent,zdrzenlivy,abstinente,abstinente,abstinente
+abstract,абстрактный,abstrakt,abstraktni,abstrato,resumen,abstraite
+abuilding,строящийся,ein gebaude,budova,um predio,un edificio,un immeuble
+abuse,оскорбление,missbrauch,zneuzivani,abuso,abuso,abuser de
+academic,академический,akademisch,akademicky,academica,academica,academique
+acarid,клещ,akarid,rozcileny,acarido,acaro,acarien
+accelerate,ускорять,beschleunigen,accelerate,acelerar,acelerar,accelerer
+accent,акцент,akzent,prizvuk,sotaque,acento,accent
+accept,принимать,akzeptieren,akceptovat,aceitar,aceptar,acceptez
+accepted,одобрено,akzeptiert,prijato,aceitaram,aceptada,accepte
+access,доступ,zugriff,pristup,acesso,acceso,acces
+accessories,аксессуар,zubehor,prislusenstvi,acessorios,accesorios,accessoires
+accident,авария,unfall,nehodanehoda,acidente,accidente,accident
+acclimatization,акклиматизация,akklimatisation,aklimatizace,aclimatacao,aclimatacion,acclimatation
+accommodated,обеспеченный,untergebracht,vstricny,acomodada,accommodated,loge
+accomplice,сообщник,der mitschuldige,spolupachatel,cumplice,complice,complice
+accomplish,выполнять,erreichen,dosahnout,realizar,realizar,accomplir
+accordance,соответствие,ubereinstimmung,v souladu,conformidade,conformidad,conformite
+according,следовательно,somit,podle,de acordo,conforme,selon
+account,счет,konto,ucet,conta,cuenta,compte
+accounting,учет,buchhaltung,ucetnictvi,contabilidade,contabilidad,comptabilite
+accuracy,аккуратность,richtigkeit,presnost,precisao,exactitud,precision
+achieve, достигать,leisten,dosahnout,alcancar,lograr,atteindre
+achievement,достижение,leistung,uspech,realizacao,logro,reussite
+acoustic,акустический,akustisch,akusticky,acustica,acoustic,acoustique
+acquirer,покупатель,erwerber,nabyvatel,adquirente,adquiridora,acquereur
+acrobat,акробат,akrobat,akrobat,acrobata,acrobata,acrobate
+across,через,uber,pre,atraves,a traves de,a travers
+action,действие,aktion,akce,acao,accion,action
+activate,активировать,aktivieren sie,aktivovat,ativar,activar,activer
+active,активный,aktiv,aktivni,ativa,activa,active
+actual,актуальный,tatsachlich,aktualni,real,real,reelle
+adaptation,адаптация,anpassung,prizpusobovani,adaptacao,adaptacion,adaptation
+additional,добавочный,zusatzlich,dalsi,adicional,adicional,plus
+address,адрес,adresse,adresa,endereco,habla a,adresse
+admin,управление,administrator,admin,admin,administracion,admin
+admit,допускать,eingestehen,pripustit,admitem,admitir,admettre
+admitted,признанный,zugegeben,pripustil,admitida,aceptado,admis
+adventure,авантюра,abenteuer,dobrodruzstvi,aventura,aventuras,aventure
+advert,объявление,inserat,inzerovat,advertir,anuncio,publicite
+advertise,объявлять,werben,inzerovat,anunciar,anunciar,afficher
+advice,совет,rat,rada,conselho,consejo,conseil
+advocate,адвокат,befurworten,zastance,advogad,abogada,avocate
+aerodrome,аэродром,flugplatz,letiste,aerodromo,aerodromo,aerodrome
+aerodynamic,аэродинамический,aerodynamisch,aerodynamicky,aerodinamica,aerodinamica,aerodynamique
+afar,издалека,aerodynamisch,z dalky,longe,lejos,au loin
+affairs,дела,angelegenheiten,zalezitosti,romances,asuntos,affaires
+affiliate,филиал,affiliate,pridruzeny,afiliada,afiliada,affaires
+afraid,испуганный,angstlich,strach,receosa,temerosa,peur
+after,после,nach,po,depois de,despues,apres
+aftertime,будущее,nach der zeit,po case,depois do tempo,tiempo despues,apres le temps
+again,снова,nochmal,znovu,novamente,de nuevo,encore
+against,против,gegen,proti,contra,en contra,contre
+age,возраст,alter,stari,era,anos,age
+agent,агент,agent,cinidlo,agente,agente,agente
+aggerate,нагромождать,aggregat,agregat,agregar,agregar,agregat
+aggress,нападать,aggressiv,agresivita,agressoes,agresion,agression
+agility,ловкость,beweglichkeit,hbitost,agilidade,agilidad,agilite
+ago,тому назад,vor,pred,atras,hace,depuis
+agree,соглашаться,zustimmen,souhlasit,aceita,de acuerdo,se mettre d'accord
+aid,помощь,hilfe,pomoc,ajuda,ayuda,aide
+aidman,санитар,helfer,pomocnik,auxiliar,enfermero militar,aide humanitaire
+ail,недомогание,ail,ail,tudo,afligir,tout
+aim,цель,ziel,cil,alvo,objetivo,objective
+air,воздух,luft,vzduch,ar,aire,air
+aircraft,авиация,flugzeug,letadlo,aeronave,aeronave,avion
+airdrome,аэродром,fFlugplatz,letiste,aerodromo,aerodromo,aeroport
+aka,иначе,aka,jak,aka,de lo contrario,alias
+alarm,тревога,alarm,poplach,alarme,alarma,alarme
+album,альбом,album,album,album,album,album
+alcohol,алкоголь,alkohol,alkohol,alcool,alcohol,de l'alcool
+algebra,алгебра,algebra,algebra,algebra,algebra,algebre
+algorithm,алгоритм,algorithmus,algoritmus,algoritmo,algoritmo,algorithme
+alimentary,пищевой,nahrhaft,zazivaci,alimentar,alimenticia,alimentaire
+aline,выровнять,eine linie,aline,aline,alinear,une ligne
+alive,живой,am leben,nazivu,viva,viva,vivante
+all,весь,alle,vsechno,tudo,todas,toute
+all over,всюду,uberall,vsude,por toda parte,por todas partes,partout
+all-around,всеобъемлющий,uberall,vsude okolo,tudo em volta,todo al rededor,tout autour
+all-in-one,цельный,alles in einem,vse v jednom,tudo em um,todo en uno,tout en un
+alliance,альянс,allianz,aliance,alianca,alianza,alliance
+allies,союзники,alliierte,spojenci,aliadas,aliadas,alliees
+allow,позволять,ermoglichen,dovolit,permitir,permitir,autoriser
+almost,почти,fast,temer,quase,casi,presque
+alone,один,allein,sam,sozinha,sola,seule
+along,вдоль,entlang,podel,ao longo,a lo largo,le long de
+alphabet,алфавит,alphabet,abeceda,alfabeto,alfabeto,alphabet
+alpinism,альпинизм,alpinismus,horolezectvi,alpinismo,alpinismo,alpinisme
+already,уже,bereits,jiz,ja,ya,deja
+also,также,ebenfalls,taky,alem disso,ademas,aussi
+altered,менять,verandert,zmeneno,alterada,alterada,altere
+alternative,выбор,alternative,alternativni,alternativa,alternativa,alternative
+although,несмотря на,obwohl,ackoli,apesar,a pesar de que,bien que
+altitude,высота,hohe,nadmorska vyska,altitude,altitud,altitude
+altogether,вполне,insgesam,celkem,completamente,en total,tout a fait
+always,всегда,immer,vzdy,sempre,siempre,toujours
+amateur,любитель,amateur,amater,amadora,aficionada,amatrice
+amazing,удивительный,tolle,uzasny,surpreendente,asombrosa,incroyable
+ambassador,посол,botschafter,velvyslanec,embaixadora,embajadora,ambassadrice
+ambience,окружение,ambiente,prostredi,ambiente,ambiente,ambiance
+ambition,амбиция,cmbition,ctizadost,ambicao,ambicion,ambition
+amigo,приятель,amigo,amigo,amigo,amigo,amigo
+among,среди,unter,mezi,entre,entre,parmi
+amortization,амортизация,abschreibungen,amortizace,amortizacao,amortizacion,amortissement
+amount,количество,menge,mnozstvi,montante,cantidad,montante
+amplifier,усилитель,verstarker,zesilovac,amplificador,amplificador,amplificatrice
+anaesthesia,анестезия,anasthesie,anestezie,anestesia,anestesia,anesthesie
+analogic,аналогичный,analog,analogicky,analogico,analogica,analogique
+analyse,анализировать,analysieren,analyzovat,analisar,analizar,analyser
+anciently,раньше,im altertum,anciently,antigamente,antiguamente,anciennement
+angle,угол,winkel,uhel,angulo,angulo,angle
+animal,животный,tier,zvire,animal,animal,animale
+annual,ежегодный,jahrlich,rocni,anual,anual,annuelle
+annum,год,annum,annum,ano,ano,annum
+anymore,больше не,nicht mehr,jeste,nao mais,nunca mas,more
+anyone,любой,jemand,kdokoliv,qualquer um,nadie,n'importe qui
+anyplace,всюду,uberall,jakekoliv misto,qualquer lugar,cualquier lugar,n'importe ou
+anything,что-либо,etwas,cokoliv,qualquer coisa,cualquier cosa,n'importe quoi
+anytime,всегда,jederzeit,kdykoli,qualquer momento,en cualquier momento,a tout moment
+anyway,в любом случае,sowieso,tak jako tak,de qualquer forma,de todas formas,en tous cas
+anywhere,везде,irgendwo,kdekoli,qualquer lugar,en cualquier sitio,nulle part
+apart,отдельно,ein teil,oddelene,separada,aparte,une part
+appear,казаться,erscheinen,objevit,aparecer,aparecer,apparaitre
+appearance,видимость,aussehen,vzhled,aparencia,apariencia,apparence
+apple,яблоко,apfel,jablko,maca,manzana,pomme
+application,применение,anwendung,aplikace,inscricao,solicitud,application
+apply,применять,anwenden,aplikovat,aplique,aplicar,appliquer
+appoint,назначать,ernennen,jmenovat,nomear,nombrar,nommer
+appropriate,подходящий,angemessen,odpovidajici,apropriada,apropiada,appropriee
+approve,одобрять,genehmigen,schvalit,aprovar,aprobar,approuver
+april,апрель,april,duben,abril,abril,avril
+archive,архив,archiv,archiv,arquivo,archivo,archiver
+area,область,bereich,plocha,area,zona,area
+argument,аргумент,streit,argument,argumento,argumento,argument
+armor,броня,rustung,brneni,armaduras,armadura,armure
+aroma,аромат,aroma,aroma,aroma,aroma,arome
+arrange,договориться,ordnen,usporadat,organizar,organizar,organiser
+array,множество,array,pole,matriz,formacion,tableau
+rival,прибытие,ankunft,prijezd,chegada,llegada,arrivee
+arrow,стрелка,pfeil,sip,seta,flecha,fleche
+art,искусство,kuns,umeni,arte,arte,art
+article,статья,artikel,clanek,artigo,articulo,article
+artificial,искусственный,kunstlich,umely,artificial,artificial,artificielle
+as,как,wie,tak jako,como,como,comme
+ask,спрашивать,fragen,dotazat se,perguntar,pedir,demander
+assembler,сборщик,assembler,assembler,montadora,ensambladora,assembleur
+assent,согласие,zustimmung,souhlas,assentimento,asentir,assentiment
+assert,утверждать,behaupten,tvrdit,afirmar,afirmar,affirmer
+assertion,заявление,behauptung,tvrzeni,afirmacao,afirmacion,affirmation
+assist,помощь,helfen,pomahat,ajudar,ayudar,aider
+assortment,ассортимент,sortiment,sortiment,sortimento,surtida,assortiment
+astronaut,астронавт,astronaut,astronaut,astronauta,astronauta,astronaute
+at,при,beim,na,as,a,a
+athletic,спортивный,sportlich,atleticky,atletica,atletica,athletique
+atmosphere,атмосфера,atmosphare,atmosfera,atmosfera,atmosfera,atmosphere
+atop,поверх,oben auf,na vrcholu,no topo,encima,un haut
+attach,прикреплять,anfugen,pripojit,anexar,adjuntar,attacher
+attain,добиваться,erreichen,dosahnout,atingir,alcanzar,atteindre
+attainments,знания,errungenschaften,vedomosti,realizacoes,logros,accomplissements
+attempt,попытка,versuch,pokus,tentativa,intento,tentative
+attend,посещать,attend,zucastnit se,comparecer,asistir,assister
+attention,внимание,beachtung,pozor,atencao,atencion,attention
+attenuate,ослаблять,dampfen,utlumit,atenuar,atenuar,attenuer
+attitude,отношение,einstellung,pristup,atitude,actitud,attitude
+attract,привлекать,anlocken,pritahovat,atrai,atraer,attirer
+attribute,атрибут,attribut,atribut,atributo,atributo,attribut
+auburn,рыжеватый,kastanienbraun,kastan,ruivo,castano,auburn
+audio,звуковой,audio,zvuk,audio,audio,l'audio
+audit,ревизия,prufung,audit,auditar,auditoria,verification
+augment,увеличение,vermehren,rozsirit,aumentar,aumentar,augmenter
+authentic,подлинный,authentisch,autenticky,autentica,autentica,authentique
+authorial,авторский,authorial,autorsky,autoral,autorial,auteur
+authority,власть,behorde,autorita,autoridade,autoridad,autorite
+autobahn,автострада,autobahn,dalnice,autobahn,autopista,autobahn
+autumn,осень,herbst,podzim,outono,otono,l'automne
+available,доступный,verfugbar,k dispozici,acessivel,disponible,disponible
+avenue,проспект,avenue,avenue,avenida,avenida,rue
+average,обычный,durchschnittlich,prumerny,media,promedio,moyenne
+await,ожидать,erwarten,cekat,aguardam,esperar,attendre
+awake,просыпаться,erwachen,vzhuru,acordada,despierta,eveille
+aware,знающий,bewusst,vedomi,consciente,consciente,conscient
+away,далеко,weg,pryc,longe,lejos,un moyen
+English,Russian,Deutsche,Czech,Portugal,Spanish,France
+http://www.oflameron.com
