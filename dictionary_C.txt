@@ -1,0 +1,155 @@
+cable,кабель,kabel,kabel,cabo,cable,cable
+cache,кэш,kasse,mezipameti,cache,cache,cache
+cafe,кафе,cafe,kavarna,cafe,cafe,cafe
+cake,торт,kuchen,dort,bolo,pastel,gateau
+calculate,вычислять,berechnung,vypocitat,calcular,calcular,calculer
+call,вызывать,anruf,volani,ligar,llamada,appel
+came,приезжать,kam,prisel,veio,vino,venue
+camel,верблюд,kamel,velbloud,camelo,camello,chameau
+camera,камера,kamera,fotoaparat,camera,camara,camera
+canalisation,канализация,kanalisierung,kanalizace,canalizacao,canalizacion,canalisation
+cancel,отмена,stornieren,zruseni,cancelar,cancelar,annuler
+candy,конфета,süssigkeit,cukrovi,doce,caramelo,bonbons
+capacity,вместимость,kapazitat,kapacita,capacidade,capacidad,capacite
+capital,капитал,hauptstadt,kapital,capital,capital,capitale
+caption,заголовок,header,titulek,rubrica,subtitulo,legende
+car,автомобиль,auto,auto,carro,coche,voiture
+card,карта,karte,karta,cartao,tarjeta,carte
+care,забота,pflege,pece,cuidado,cuidado,se soucier
+career,карьера,werdegang,kariera,carreira,carrera,carriere
+careful,внимательный,vorsichtig,opatrny,cuidado,cuidada,prudente
+cargo,груз,ladung,naklad,carga,carga,cargaison
+carrot,морковь,karotte,mrkev,cenoura,zanahoria,carotte
+cartoon,анимация,karikatur,karikatura,caricatura,caricatura,dessin anime
+case,случай,fall,pripad,caso,caso,cas
+cash,наличные,kasse,hotovost,dinheiro,efectivo,en especes
+casha,каша,casha,casha,casha,casha,casha
+casual,повседневный,beilaufig,neformalni,casual,casual,decontractee
+cat,кошка,katze,kocka,gata,gata,chatte
+catalog,каталог,katalog,katalog,catalogo,catalogar,catalogue
+category,категория,kategorie,kategorie,categoria,categoria,categor
+celebrate,праздновать,feiern,slavit,celebrate,celebrar,celebrer
+cell,ячейка,zelle,bunka,celula,celda,cellule
+cellular,ячеистый,zellular,bunecny,celular,celular,cellulaire
+cement,цемент,zement,cement,cimento,cemento,ciment
+center,центр,center,centrum,centro,centrar,centre
+centimeter,сантиметр,zentimeter,centimetr,centimetro,centimetro,centimetre
+ceramic,керамический,keramik,keramicky,ceramica,ceramica,ceramique
+certificate,сертификат,zertifikat,osvedceni,certificado,certificado,certificat
+chain,цепь,kette,retez,cadeia,cadena,chaine
+chairman,председатель,vorsitzende,predseda,presidente,presidente,president
+champ,чемпион,champ,mastery,campea,morder,championne
+champion,чемпион,champion,sampion,campea,campeona,championne
+changed,менять,geandert,zmeneno,mudou,cambiada,modifie
+channel,канал,kanal,kanal,canal,canal,canal
+chaos,хаос,chaos,chaos,caos,caos,caos,le chaos
+chapter,глава,kapitel,kapitola,capitulo,capitulo,chapitre
+charged,заряженный,berechnet,uctovano,carregada,cargada,accusee
+chat,болтать,plaudern,povidat si,bate-papo,charla,bavarder
+check,проверка,prufen,sek,verifica,cheque,verifier
+cherry,вишня,kirsche,tresen,cereja,cereza,cerise
+chess,шахматы,schach,sachy,xadrez,ajedrez,echecs
+chicken,курица,hahnchen,kure,frango,pollo,poulette
+child,ребенок,kind,dite,crianca,nina,enfant
+childhood,детство,kindheit,detstvi,infancia,infancia,enfance
+chip,стружка,chip,cip,lasca,chip,puce
+chocolate,шоколад,schokolade,cokolada,chocolate,chocolate,chocolat
+choice,выбор,wahl,vyber,escolha,eleccion,choix
+choose,выбирать,wahlen,vybrat,escolher,escoger,choisir
+cigarette,сигарета,zigarette,cigareta,cigarro,cigarrillo,cigarette
+cinema,кино,kino,kino,cinema,cine,cinema
+circle,круг,kreis,kruh,circulo,circulo,cercle
+citizen,гражданин,burger,obcan,cidada,ciudadana,citoyenne
+city,город,stadt,mesto,cidade,ciudad,ville
+classbook,учебник,klassenbuch,tridni kniha,livro escolar,libro de clase,livre de classe
+classic,классический,klassisch,klasicky,classica,clasica,classique
+classification,классификация,einstufung,klasifikace,classificacao,clasificacion,classification
+classmate,одноклассник,mitschuler,spoluzak,colega,condiscipulo,compagne
+claws,пальцы,krallen,drapy,garras,garras,les griffes
+clean,чистый,reinigen,cisty,limpar,limpiar,nettoyer
+clear,понятный,klar,jasny,clara,clara,claire
+clearly,очевидно,deutlich,zjevne,claramente,claramente,clairement
+click,щелчок,klicken,kliknete,clique,hacer clic,cliquet
+client,клиент,klient,klient,cliente,cliente,cliente
+climate,климат,klima,podnebi,clima,clima,climat
+clinic,клиника,klinik,klinika,consultorio,clinica,clinique
+clock,часы,uhr,hodiny,relogio,reloj,l'horloge
+close,закрывать,schlie?en,zavrit,fechar,cerrar,proche
+cloud,облако,wolke,mrak,nuvem,nube,nuage
+club,клуб,verein,klub,clube,club,club
+clue,ключ,hinweis,voditko,pista,pista,indice
+coach,тренер,trainer,trener,treinadora,entrenadora,entraineuse
+coal,уголь,kohle,uhli,carvao,carbon,charbon
+coat,пальто,mantel,kabat,casaco,saco,manteau
+coffee,кофе,kaffee,kava,cafe,cafe,cafe
+cognac,коньяк,cognac,konak,conhaque,conac,cognac
+coin,монета,munze,mince,moeda,moneda,pierre de coin
+color,цвет,farbe,barva,cor,color,couleur
+come,приходить,kommen sie,prijit,venha,ven,viens
+coming,приезд,kommen,prichod,chegando,viniendo,venant
+comity,вежливость,hoflichkeit,zdvorilost,cortesia,cortesia,courtoisie
+comma,запятая,komma,carka,virgula,coma,virgule
+command,команда,befehl,prikaz,comando,mando,commander
+comment,комментарий,kommentar,komentar,comente,comentario,commentaire
+commission,комиссия,kommission,komise,comissao,comision,commission
+commit,совершать,verpflichten,spachat,cometer,cometer,commettre
+common,общий,verbreitet,spolecny,comum,comun,commune
+commutator,коммутатор,kommutator,komutator,comutador,conmutadora,commutateur
+compact,компактный,kompakt,kompaktni,compactar,compacta,compact
+compare,сравнение,vergleichen sie,porovnat,comparar,comparar,comparer
+complain,жаловаться,beschweren,porovnat,reclamar,quejar,se plaindre
+complect,переплетать,complect,sestavit,cumprir,completo,completer
+complete,полностью,komplett,kompletni,completa,completar,achevee
+complicate,усложнять,komplizieren,komplikovat,complicar,complicar,compliquer
+component,компонент,komponente,soucastka,componente,componente,composante
+compose,составлять,komponieren,komponovat,compor,componer,composer
+comprehend,понимать,begreifen,pochopitpochopit,compreender,comprender,comprendre
+compressed,сжатый,komprimiert,komprimovat,comprimida,comprimida,comprimee
+compute,вычислять,berechnen,vypocitat,calcular,calcular,calculer
+conclude,делать вывод,daraus schlie?en,uzavrit,concluir,concluir,conclure
+condition,состояние,bedingung,stav,condicao,condicion,etat
+configure,конфигурировать,konfigurieren,konfigurovat,configurar,configurar,configurer
+confirm,подтверждать,bestatigen,potvrdit,confirme,confirmar,confirmer
+conform,соответствовать,sich anpassen,prizpusobit se,conformar,ajustarse,se conformer
+connection,соединение,verbindung,spojeni,conexao,conexion,lien
+consequent,последствие,konsequent,nasledny,consequente,consiguiente,consequente
+consider,рассматривать,erwagen,zvazit,considerar,considerar,considerer
+consist,состоять,bestehen,skladat se,consiste,consistir,consister
+consult,консультировать,konsultieren,konzultovat,consultar,consultar,consulter
+consumer,потребитель,verbraucher,spotrebitel,consumidora,consumidora,consommatrice
+contact,контакт,kontakt,kontakt,contato,contacto,contact
+contain,содержать,enthalten,obsahovat,conter,contiene,contenir
+content,содержание,inhalt,obsah,conteudo,contenido,contenu
+context,контекст,kontext,kontext,contexto,contexto,le contexte
+continue,продолжать,fortsetzen,pokracovat,continuar,continuar,continuez
+contract,контракт,vertrag,smlouva,contrato,contrato,contrat
+control,управлени,steuerung,rizeni,ao controle,controlar,controle
+controller,контроллер,regler,ovladac,controladora,controladora,manette
+convergence,сближение,konvergenz,konvergence,convergencia,convergencia,convergence
+conversation,разговор,konversation,konverzace,conversation,conversacion,conversation
+converse,перевернутый,unterhalten,konverzovat,conversar,conversar,converser
+cooked,приготовленный,gekocht,varene,cozinhou,cocida,cuite
+cooler,холодильник,kuhler,chladic,resfriador,enfriadora,glaciere
+copy,копия,kopieren,kopirovat,copia de,copiar,copie
+correct,правильный,richtig,opravit,corrigir,correcta,correct
+cost,стоить,kosten,naklady,custo,costo,cout
+cotton,хлопок,baumwolle,bavlna,algodao,algodon,coton
+count,счет,anzahl,spocitat,contagem,contar,compter
+country,страна,land,zeme,pais,country,pays
+cover,крышка,startseite,pokryt,tampa,cubrir,couverture
+cream,крем,sahne,krem,creme,crema,creme
+create,создавать,erstellen,vytvorit,crio,crear,creer
+creative,творческий,kreativ,tvurci,criativa,creativa,creative
+credit,кредит,kredit,kredit,credito,credito,credit
+crew,экипаж,besatzung,posadka,tripulacao,personal,equipage
+critical,критический,kritisch,kriticky,critica,critica,critique
+cross,пересекать,kreuz,prejit,cruz,cruzar,traverser
+crystal,кристалл,kristall,krystal,cristal,cristal,cristal
+cube,куб,wurfel,krychle,cubo,cubo,cube
+cucumber,огурец,gurke,okurka,pepino,pepino,concombre
+curiosity,любопытство,neugierde,zvedavost,curiosidade,curiosidad,curiosite
+currency,валюта,wahrung,mena,moeda,moneda,devise
+current,текущий,strom,aktualni,atual,actual,courant
+cut,разрез,schnitt,strih,cortar,cortar,couper
+English,Russian,Deutsche,Czech,Portugal,Spanish,France
+http://www.oflameron.com
