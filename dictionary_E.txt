@@ -1,0 +1,105 @@
+earlier,раньше,vorhin,drive,mais cedo,mas temprano,plus tot
+earphone,наушник,kopfhorer,sluchatko,fone de ouvido,auricular,ecouteuse
+earth,земля,erde,zeme,terra,tierra,terre
+easily,легко,leicht,snadno,facilmente,facilmente,facilement
+east,восток,osten,vychodni,leste,este,est
+easy,легкий,einfach,snadny,facil,facil,facile
+eat,кушать,essen,jist,comer,comer,manger
+echelon,эшелон,echelon,echelon,escalao,escalon,echelon
+echo,эхо,echo,echo,eco,eco,echo
+economic,экономный,wirtschaftlich,hospodarsky,economica,economica,economique
+edge,край,kante,okraj,beira,borde,bord
+edit,редактировать,,bearbeiten,upravit,editar,editar,modifier
+education,образование,bildung,vzdelani,educacao,educacion,education
+effect,эффект,bewirken,ucinek,efeito,efecto,effet
+effort,усилие,anstrengung,usili,esforco,esfuerzo,effort
+egg,яйцо,ei,vejce,ovo,huevo,oeuf
+egress,выход,austritt,vytok,saida,salida,sortie
+eight,восемь,acht,osm,oito,ocho,huit
+eighteen,восемнадцать,achtzehn,osmnact,dezoito,dieciocho,dix-huit
+eighty,восемьдесят,achtzig,osmdesat,oitenta,ochenta,quatre-vingts
+either,любой,entweder,bud,ou,ya sea,non plus
+eject,выбрасывать,auswerfen,vysunout,ejetar,expulsar,ejecter
+elastic,упругий,elastisch,elasticky,elastico,elastico,elastique
+eldest,старейший,alteste,nejstarsi,mais velho,el mayor,ainee
+elect,выбирать,wahlen,zvolit,eleger,electa,elire
+electric,электрический,elektrisch,elektricky,eletrica,electrica,electrique
+elegance,элегантность,eleganz,elegance,elegancia,elegancia,elegance
+element,элемент,element,zivel,elemento,elemento,element
+elephant,слон,elefant,slon,elefanta,elefante,l'elephant
+elevate,поднимать,erheben,povysit,elevar,elevar,elever
+eleven,одиннадцать,elf,jedenact,onze,once,onze
+eliminate,исключать,beseitigen,odstranit,eliminar,eliminar,eliminer
+ellipse,эллипс,ellipse,elipsa,elipse,elipse,ellipse
+else,еще,sonst,jiny,outra,mas,autre
+embedded,включенный,eingebettet,vestaveny,embutida,incrustada,integre
+emergency,аварийный,notfall,nouzovy,emergencia,emergencia,urgence
+emission,выпуск,emission,emise,emissao,emision,emission
+emotion,эмоция,emotion,emoce,emocao,emocion,emotion
+employ,использовать,verwenden,zamestnat,empregar,emplear,employer
+empty,пустой,leeren,prazdny,esvaziar,vacia,vide
+emulate,подражать,emulieren,emulovat,emular,emular,imiter
+emulsion,эмульсия,emulsion,emulze,emulsao,emulsion,emulsion
+enable,разрешать,aktivieren,umoznit,habilitar,habilitar,activer
+enclose,прилагать,anwenden,prilozit,anexar,encerrar,joindre
+enclosed,закрытый,beigefugt,prilozeny,anexo,adjunta,enferme
+encode,кодировать,kodieren,zakodovat,codificar,codificar,encoder
+end,конец,ende,konec,fim,fin,fin
+endless,бесконечный,endlos,nekonecny,sem fim,sem fim,interminable
+energy,энергия,energie,energie,energia,energia,energie
+enforce,заставлять,erzwingen,prosadit,impor,hacer cumplir,imposer
+engine,двигатель,motor,motor,motor,motor,moteur
+engineer,инженер,ingenieurin,inzenyr,engenheira,ingeniera,ingenieure
+english,английский,englisch,anglictina,ingles,inglesa,anglaise
+enhance,enhance,verbessern,zlepsit,realcar,mejorar,ameliorer
+enjoy,наслаждаться,genießen,uzivat si,desfrutar,disfrutar,jouir
+enlarge,увеличивать,zunahme,zvetsit,prolongar,agrandar,agrandir
+enough,достаточно,genug,dost,suficiente,suficiente,assez
+enter,вводить,eingeben,vstoupit,entrar,entrar,entrer
+entertainment,развлечение,unterhaltung,zabava,entretenimento,entretenimiento,divertissement
+entire,весь,gesamte,cely,inteira,toda,toute
+entrance,вход,eingang,vchod,entrada,entrada,entree
+entry,вход,eintrag,vstup,entrada,entrada,entree
+enumerate,перечислять,aufzahlen,vyjmenovat,enumerar,enumerar,enumerer
+equal, равный,gleich,rovnat se,igual,igual,egale
+equipment,оборудование,ausrustung,zarizeni,equipamento,equipo,equipement
+erase,стирать,loschen,vymazat,apagar,borrar,effacer
+error,ошибка,error,chyba,erro,error,erreur
+escape,побег,flucht,uniknout,escapar,escapar,echapper
+establish,создавать,grunden,zalozit,estabelecer,establecer,etablir
+estate,имущество,nachlass,majetek,estado,inmuebles,biens
+estimate,оценка,schatzen,odhad,estimativa,estimar,estimation
+evacuate,эвакуировать,evakuieren,evakuovat,evacuar,evacuar,evacuer
+evaluate,оценивать,bewerten,vyhodnotit,avalie,evaluar,evaluer
+even,даже,sogar,dokonce,ate,incluso,meme
+evening,вечер,abend,vecer,tarde,noche,soiree
+event,событие,veranstaltung,udalost,evento,evento,un evenement
+ever,когда-либо,je,vubec,sempre,siempre,deja
+every,каждый,jeden,kazdy,cada,cada,chaque
+everyone,все,jeder,kazdy,todos,todo el mundo,toutes les personnes
+evoke,вызывать,hervorrufen,vyvolat,evocar,evocar,evoquer
+exact,точный,genau,presny,exata,exacta,exacte
+exceed,превышать,uberschreiten,prekrocit,ultrapassarem,exceder,depasser
+except,исключать,ausschließen,az na,exceto,excepto,sauf
+exclusive,эксклюзивный,exklusiv,vyhradni,exclusiva,exclusiva,exclusive
+excuse,извинение,entschuldigung,omluva,com licenca,excusa,excuse
+execute,выполнять,ausfuhren,vykonat,executar,ejecutar,executer
+exercise,упражнение,упражнение,ubung,cviceni,exercicio,ejercicio,exercice
+exhibition,выставка,ausstellung,vystava,exibicao,exposicion,exposition
+exist,существовать,existieren,existovat,existir,existe,exister
+expander,расширитель,expander,expander,expansor,expansor,elargir
+expat,эмигрант,expat,expat,expat,expatriada,expat
+expect,ожидать,erwarten von,ocekavat,espero,esperar,attendre
+expert,эксперт,expertin,expert,especialista,experta,experte
+expired,истекший,abgelaufen,prosly,expirada,muerta,expire
+explain,объяснять,erklaren,vysvetlit,explicar,explique,explique
+explicit,явный,ausdrucklich,explicitne,explicita,explicita,explicite
+explore,исследовать,erkunden,prozkoumat,explorar,explorar,explorer
+export,экспорт,export,vyvozni,exportacao,exportar,exportation
+expression,выражение,ausdruck,vyraz,expressao,expresion,expression
+extend,расширять,erweitern,rozsirit,ampliar,ampliar,etendre
+external,внешний,extern,externi,externa,externo,externe
+extraction,извлечение,extraktion,tezba,extracao,extraccion,extraction
+eye,глаз,auge,oko,olho,ojo,œil
+English,Russian,Deutsche,Czech,Portugal,Spanish,France
+http://www.oflameron.com
