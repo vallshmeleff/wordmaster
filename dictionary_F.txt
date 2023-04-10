@@ -1,0 +1,72 @@
+face,лицо,gesicht,tvar,face,cara,visage
+factory,фабрика,fabrik,tovarna,fabrica,fabrica,usine
+family,семья,familie,rodina,familia,familia,famille
+famous,известный,beruhmt,slavny,famosa,famosa,celebre
+fan,вентилятор,ventilator,fanousek,ventilador,ventilador,ventilateur
+fantastic,фантастический,fantastisch,fantasticky,fantastica,fantastica,fantastique
+far,далеко, weit,daleko,longe,lejos,loin
+fashion,мода,mode,moda,moda,moda,mode
+fast,быстрый,schnell,rychle,velozes,rapida,vite
+fat,жир,fett,tlusty,gordura,grasa,graisse
+father,отец,vater,otec,pai,padre,pere
+fault,ошибка,fehler,chyba,culpa,culpa,faute
+favored,преимущество,bevorzugt,oblibeny,favorecida,favorecida,favorise
+fear,страшно,angst,strach,medo,temor,peur
+feast,праздник,fest,hody,festa,banquete,le banquet
+feature,особенность,feature,vlastnosti,caracteristica,caracteristica,fonctionnalite
+february,февраль,februar,unor,fevereiro,febrero,fevrier
+feet,ноги,beine,nohy,pes,pies,pieds
+female,женский,weiblich,zensky,femea,hembra,femme
+few,немного,wenige,malo,poucas,pocas,peu
+fight,борьба,kampf,boj,luta,lucha,bats toi
+fill,заполнение,fullen,vyplnit,preencher,llenar,remplir
+final,конечный,finale,finale,final,final,finale
+finance,финансы,finanzen,finance,financa,financiar,la finance
+find,находить,finden,nalezt,encontrar,encontrar,trouver
+fine,прекрасно,fein,dobre,bem,multa,bien
+finger,палец,finger,prst,dedo,dedo,doigt
+finish,окончание,fertig,dokoncit,terminar,terminar,terminer
+field,поле,feld,,campo,campo,champ
+fifty,пятьдесят,funfzig,padesati,cinquenta,cincuenta,cinquante
+flanker,обход,flanker,opevneni,flanker,flanker,flanker
+flash,вспышка,blitz,blikat,instantaneamdestello,flash
+flat,плоский,eben,ploche,plana,plana,flat
+flavor,аромат,geschmack,prichut,sabor,sabor,saveur
+flexible,гибкий,flexibel,flexibilni,flexivel,flexible,flexible
+float,плавающий,schweben,plovak,flutuadora,flotadora,flotte
+floor,этаж,boden,podlaha,chao,suelo,sol
+flow,поток,fluss,tok,fluxo,fluir
+flower,цветок,blume,kvet,flor,flor,fleur
+fluctuate,колебаться,schwanken,kolisat,flutuar,fluctuar,fluctuer
+fluent,жидкий,flüssig,plynuly,fluente,fluido,couramment
+fly,лететь,fliege,letat,mosca,volar,voler
+foam,пена,schaum,pena,espuma,espuma,mousse
+focus,фокус,fokus,soustredit se,foco,atencion,concentrer
+folk,народ,volk,lidovy,folk,gente,populaire
+follow,следовать,folgen,nasledovat,sseguir,egue,suivre
+font,шрифт,schriftart,pismo,fonte,fuente,la fonte
+food,еда,essen,jidlo,comida,comida,nourriture
+foot,нога,bein,noha,pe,pie,pied
+football,футбол,fußball,fotbal,futebol,futbol,football
+force,сила,macht,platnost,forca,fuerza,obliger
+foreign,иностранный,fremd,zahranicni,estrangeira,exterior,etrangere
+forever,навсегда,forever,navzdy,eternamente,siempre,oujours
+format,формат,format,vorwarts,vpred,frente,adelante,avant
+found,найденный,gefunden,nalezeno,encontrada,encontro,a trouve
+four,четыре,vier,ctyri,quatro,cuatro,quatre
+fragment,фрагмент,fragment,fragment,fragmento,fragmento,fragment
+frame,рамка,rahmen,ram,quadro,cuadro,cadre
+free,свободно,frei,volny,livre,gratis,libre
+freeway,фривей,autobahn,dalnice,auto-estrada,autopista,autoroute
+freeze,замерзать,einfrieren,zmrazit,congelar,congelar,gel
+french,французский,franzosisch,francesa,francesa,francaise
+frequent,частый,haufig,caste,frequente,frecuente,frequente
+fresh,свежий,frisch,cerstvy,fresca,fresca,fraiche
+friend,друг,freundin,pritel,amiga,amiga,amie
+frozen,замерзший,gefroren,zamrzly,congeladas,congelada,congelee
+fuel,топливо,treibstoff,palivo,combustivel,combustible,carburant
+full,полный,voll,uplny,cheia,llena,pleine
+function,функция,funktion,funkce,funcao,funcion,fonction
+fundamental,основной,grundlegend,zakladni,fundamental,fundamental,fondamental
+English,Russian,Deutsche,Czech,Portugal,Spanish,France
+http://www.shmeleff.com
