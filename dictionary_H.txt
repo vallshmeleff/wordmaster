@@ -1,0 +1,51 @@
+gadget,безделушка,gadget,pristroj,gadget,artilugio,gadget
+gallery,галерея,galerie,galerie,galeria,galeria,galerie
+gamble,азартная игра,zocken,hazardovat,jogar,jugar,pari
+game,игра,spiel,hra,jogos,juego,jeu
+garbage,мусор,mull,odpadky,lixo,basura,ordures
+gas,газ,gas,plyn,gas,gas,gaz
+gate,ворота,tor,brana,portao,porton,porte
+general,общий,allgemeines,vseobecne,geral,general,generale
+generous,щедрый,gro,zugig,stedry,generosa,generosa,genereuse
+genius,гений,genius,genius,genia,genia,genie
+gentleman,джентльмен,gentleman,gentleman,cavalheiro,caballero,gentilhomme
+genuine,подлинный,original,originalni,genuina,genuina,authentique
+geography,география,erdkunde,zemepis,geografia,geografia,geographie
+geology,геология,geologie,geologie,geologia,geologia,geologie
+get,получать,bekommen,dostat,obter,obtener,avoir
+giant,гигант,riesin,obri,gigante,gigante,geante
+give,давать,geben,dat,dar,dar,donner
+glad,радостный,froh,rad,feliz,alegre,contente
+glass,стекло,glas,sklenka,vidro,vaso,verre
+globally,глобально,global,globalne,globalmente,globalmente,globalement
+glue,клей,kleben,lepidlo,cola,pegamento,colle
+go,идти,gehen,jit,ir,vamos,aller
+goal,цель,tor,cil,objetivo,objetivo,objectif
+gold,золото,gold,zlato,ouro,oro,or
+gonna,собираться,werde,chci,vai,va a,va
+good,хороший,gut,dobry,boa,buena,bien
+goodbye,досвидания,auf wiedersehen,ahoj,tchau,adios,au revoir
+government,правительство,regierung,vlada,governo,gobierno,gouvernement
+graceful,элегантный,anmutig,elegantni,graciosa,agraciada,gracieuse
+graduate,выпускник,absolventin,absolvovat,graduada,graduada,diplomee
+gram,грамм,gramm,gram,grama,gramo,gramme
+grammar,грамматика,grammatik,gramatika,gramatica,gramatica,grammaire
+gran,бабушка,gran,gran,gran,gran,gran
+grand,великий,gro?artig,velky,grande,grandiosa,grandiose
+grape,виноград,traube,hroznovy,uva,uva,grume
+graph,график,graph,graf,grafico,grafico,graphique
+grateful,благодарный,dankbar,vdecny,grata,agradecida,reconnaissante
+great,большой,groß,skvely,otima,genial,geniale
+green,зеленый,grun,zeleny,verde,verde,verte
+grey,серый,grau,seda,cinzenta,gris,grise
+grid,сетка,gitter,mrizka,rede,cuadricula,la grille
+ground,земля,boden,prizemni,terra,terra,sol
+group,группа,gruppe,skupina,grupo,grupo,groupe
+grow,расти,wachsen,rust,crescer,crecer,grandir
+guarantee,гарантия,garantie,zaruka,garantia,garantizar,garantie
+guard,гвардия,bewachen,straz,guarda,guardia,garde
+guest,гость,gast,host,hospede,invitada,cliente
+guide,руководство,leiten,pruvodce,guia,guia,guider
+gymnastics,гимнастика,gymnastik,gymnastika,ginastica,gimnasia,gymnastique
+English,Russian,Deutsche,Czech,Portugal,Spanish,France
+http://www.shmeleff.com
