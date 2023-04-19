@@ -1,0 +1,25 @@
+jacket,куртка,jacke,bunda,jaqueta,chaqueta,veste
+jam,джем,marmelade,dzem,geleia,mermelada,confiture
+jelly,желе,gzele,elee,geleia,jalea,gelifier
+jet,струя,jet,proud,jato,chorro,jet
+jewelry,ювелирный,schmuck,sperky,joalheria,joyeria,bijoux
+jingle,звонок,klimpern,cinkot,tinir,cascabeleo,tinter
+jitter,дрожание,jitter,chveni,nervosismo,estar nervioso,gigue
+job,работа,job,prace,trabalho,trabajo,emploi
+journey,путешествие,reise,cesta,viagem,viaje,periple
+joy,радость,freude,radost,alegria,alegria,joie
+jubilee,юбилей,jubilaum,jubileum,jubileu,aniversario,jubile
+juice,сок,saft,dzus,suco,jugo,jus
+july,июль,juli,cervenec,julho,julio,juillet
+jumbo,огромный,jumbo,jumbo,jumbo,jumbo,geante
+jump,прыгать,springen,skok,saltar,saltar,sauter
+jumper,перемычка,jumper,skokan,saltadora,saltadora,sauteuse
+june,июнь,juni,cerven,junho,junio,juin
+junior,младший,juniorin,junior,junior,junior,junior
+junk,барахло,mull,haraburdi,lixo,basura,dechet
+juridic,юридический,juristisch,pravnicky,juridico,juridico,juridique
+jury,жюри,jury,porota,juri,jurado,jury
+just,только,gerade,proste,somente,solo,juste
+justify,объяснять,rechtfertigen,ospravedlnit,justificar,justificar,justifier
+English,Russian,Deutsche,Czech,Portugal,Spanish,France
+http://www.oflameron.com
