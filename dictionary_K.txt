@@ -1,0 +1,22 @@
+keep,держать,behalten,drzet,manter,mantener,garder
+keeping,хранение,behalten,vedeni,guardando,acuerdo,en gardant
+kettle,чайник,kessel,konvice,chaleira,tetera,bouilloire
+key,ключ,schlussel,klic,chave,lave,cle
+kick,удар,trete,kop,pontape,patada,donner un coup
+kid,ребенок,kind,dite,crianca,nina,enfant
+kilometer,километр,kilometer,kilometr,quilometro,kilometro,kilometre
+kind,тип,nett,druh,tipo,tipo,gentille
+kindle,зажигать,entzunden,roznitit,acender,encender,allumer
+king,король,konig,kral,rei,rey,roi
+kiss,поцелуй,kuss,polibek,beijo,beso,baiser
+kit,набор,kit,kit,kit,equipo,trousse
+kitchen,кухня,kuche,kuchyne,cozinha,cocina,cuisine
+kitty,котенок,katzchen,kotatko,gatinha,gatita,minou
+knee,колено,knie,koleno,joelho,rodilla,e genou
+knew,знать,wusste,vedel,sabia,sabia(,savait
+knife,нож,messer,nuz,faca,cuchillo,couteau
+knit,вязать,stricken,plest,tricotar,tejer,tricoter
+knock,удар,klopfen,klepani,batida,golpe,frappe
+know,знать,kennt,vedet,conhecer,saber,frappe
+English,Russian,Deutsche,Czech,Portugal,Spanish,France
+http://www.oflameron.com
