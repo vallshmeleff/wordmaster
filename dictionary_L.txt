@@ -1,0 +1,81 @@
+label,этикетка,etikette,oznaceni,rotulo,etiqueta,etiquette
+labor,работа,arbeit,prace,trabalho,labor,labeur
+lady,леди,dame,dama,senhora,dama,dame
+lake,озеро,see,jezero,lago,lago,lac
+lamp,лампа,lampe,svitilna,uminaria,lampara,lampe
+land,земля,land,pristat,terra,tierra,terre
+landscape,пейзаж,landschaft,krajina,panorama,paisaje,paysage
+landing,приземление,landung,pristani,aterrissagem,aterrizaje,atterrissage
+lane,полоса,fahrbahn,pruh,faixa,carril,voie
+language,язык,sprache,jlazyk,lingua,idioma,langue
+large,большой,gro?,velky,ampla,grande,grande
+last,последний,zuletzt,posledni,ultima,ultimo,derniere
+later,позже,spater,pozdeji,mais tarde,luego,plus tard
+latitude,широта,breite,zemepisna sirka,latitude,latitud,latitude
+laugh,смеяться,lachen,smat se,rir,risa,rire
+launch,запускать,starten,zahajeni,lancamento,anzamiento,ancement
+law,закон,gesetz,zakon,lei,ley,loi
+lay-out,расположение,layout,rozvrzeni,disposicao,diseno,disposition
+layer,слой,schicht,vrstva,camada,capa,couche
+leader,лидер,fuhrerin,vudce,lider,lider,chef
+leaf,лист,blatt,list,folha,hoja,feuille
+learning,изучение,lernen,uceni se,aprendendo,aprendizaje,apprentissage
+lease,аренда,mieten,pronajem,de concessao,arrendamiento,bail
+leather,кожа,leder,kuze,couro,cuero,cuir
+leave,отъезд,verlassenodejit,sair,salir,laisser
+left,слева,inks,vlevo,esquerda,izquierda,a gauche
+leg.нога,bein,noha,perna,pierna,jambe
+legacy,наследство,erbe,dedictvi,legada,legado,heritage
+legitime,законный,legitime,legitimni,legitimidade,legitimidad,legitime
+length,длина,lange,delka,comprimento,longitud,longueur
+lens,линза,linse,cocka,lente,lente,lentille
+lesson,урок,lektion,lekc,licao,leccion,lecon
+letter,письмо,brief,dopis,carta,letra,lettre
+level,уровень,niveau,uroven,nivel,nivel,niveau
+liberty,свобода,freiheit,svoboda,liberdade,libertad,liberte
+library,библиотека,bibliothek,knihovna,biblioteca,biblioteca,bibliotheque
+licence,лицензия,lizenz,licence,licenca,licencia,licence
+lie,ложь,luge,lhat,mentira,mentira,mensonge
+life,жизнь,,leben,zivot,vida,vida,la vie
+lift,поднимать,aufzug,vytah,lift,levantar,ascenseur
+light,свет,licht,svetlo,luz,ligera,lumiere
+like,любить,mogen,jako,gostar,me gusta,comme
+limi,предел,grenze,omezit,limite,limite,limite
+line,линия,linie,radek,linha,linea,ligne
+lingual,языковый,ingual,lingvalni,lingual,lingual,linguale
+link,ссылка,verknupfung,odkaz,ligacao,enlace,lien
+liquid,жидкость,flussigkeit,kapalny,liquido,liquido,liquide
+liquidate,уничтожать,liquidieren,likvidovat,liquidar,liquidar,iquider
+list,список,auffuhren,seznam,lista,lista,liste
+listen,слушать,auschen,poslouchat,ouco,escucha,ecoutez
+lite,легкий,lite,lite,leve,lite,legere
+liter,литр,liter,litr,litro,litro,litre
+literate,грамотный,educated,gramotny,alfabetizada,alfabetizada,alphabetise
+little,маленький, wenig,malo,pequena,pequena,peu
+live,живой,leben,zit,viver,en vivo,vivre
+load,нагрузка,belastung,zatizeni,carga,carga,charge
+loan,взаймы,darlehen,pujcka,emprestimo,prestamo,prete
+local,местный,lokal,mistni,local,local,locale
+locate,находиться,lokalisieren,lokalizovat,localizar,localizar,localiser
+location,дислокация,ort,umisteni,localizacao,ubicacion,emplacement
+lock,замок,sperren,zamek,trava,bloquear,fermer a cle
+locomotive,тепловоз,lokomotive,lokomotiva,locomotiva,locomotora,locomotive
+logarithmic,логарифмический,logarithmisch,logaritmicky,logaritmico,logaritmica,logarithmique
+logic,логика,logik,logika,logica,ogica,logique
+login,вход,anmeldung,prihlasit se,conecte-se,iniciar sesion,s'identifier
+long,длинный, долгий, долго, давно, долгий срок, стремиться
+long,длинный,lange,dlouho,grandes,larga,longue
+longtime,давний,ange zeit,dlouho,muito tempo,largo tiempo,longtemps
+look,взгляд,aussehen,divej se,veja,mira,regardez
+loop,петля,schleife,smycka,ciclo,lazo,boucle
+lose,терять,verlieren,prohra,perder,perder,perdre
+love,любовь,liebe,milovat,amor,amor,l'amour
+low,низкий,niedrig,nizky,baixa,baja,faible
+lowly,скромный,niedrig,pokorny,humilde,humilde,humble
+lubricate,смазывать,schmieren,mazat,lubrificar,lubricar,lubrifier
+lucent,прозрачный,luzent,lucent,lucida,lucent,lucent
+luck,удача,gluck,stesti,sorte,suerte,a chance
+lucky,счастливый,glucklich,stastny,por sorte,suerte,chanceuse
+lunar,лунный,mond,mesicni,lunar,lunar,lunaire
+English?Russian,Deutsche,Czech,Portugal,Spanish,France
+http://www.shmeleff.com
